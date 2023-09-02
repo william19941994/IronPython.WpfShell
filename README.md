@@ -2,7 +2,7 @@
 
 #### 介绍
 一个用wpf写的IronPython的shell，支持numpy等三方的注入变量，支持命令行输出的显示。
-
+![运行截图](IronPython.WpfShell.Test/screen-shot-1.png)
 #### 软件架构
 软件架构说明
 
