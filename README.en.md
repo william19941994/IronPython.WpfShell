@@ -1,8 +1,12 @@
 # IronPython.WpfShell
 
 #### Description
-一个用wpf写的IronPython的shell，支持numpy等三方的注入变量，支持命令行输出的显示。
+an IronPython shell with wpf. 
+has solution for numpy variable.
+support show sys.out to the wpf UI.
 
+
+![Run screen capture](IronPython.WpfShell.Test/screen-shot-1.png)
 #### Software Architecture
 Software architecture description
 
